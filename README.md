@@ -21,3 +21,7 @@ React Weather Application - Provides current weather data, 5 pre-set city foreca
 - [Icons](https://iconscout.com/unicons)
 - [Luxon](https://www.npmjs.com/package/luxon)
 - [React-Toastify](https://www.npmjs.com/package/react-toastify)
+
+## Screenshot
+
+![Screenshot_1-removebg](https://github.com/IKaramitsos/ReactWeatherApp/assets/63364209/7ea1d502-14b0-4e0e-a271-e58faf4f9c2d)
