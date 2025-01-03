@@ -4,6 +4,30 @@
 
 React Weather Application - Provides current weather data, 5 pre-set city forecasts, Celsius/Fahrenheit options,GPS-based local weather, and global city search functionality. It also provides a variety of weather statistics.
 
+
+## Installation Guide
+
+#### 1. Clone the Repository
+```
+https://github.com/IKaramitsos/ReactWeatherApp.git
+```
+#### 2. Navigate to the Project Directory
+```
+cd ReactWeatherApp
+```
+#### 3. Navigate to weatherService.js and add your OpenWeatherMap API key
+```
+const API_KEY = '';
+```
+#### 4. Install Dependencies
+```
+npm install
+```
+#### 5. Run the Application
+```
+npm start
+```
+
 ## Features
 
 - **Current Weather**: Get real-time weather updates.
